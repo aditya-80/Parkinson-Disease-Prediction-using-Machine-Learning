@@ -5,7 +5,7 @@ This project focuses on predicting **Parkinson's Disease** using machine learnin
 Parkinson’s disease is a progressive disorder of the nervous system that affects movement.  
 Early detection can play a crucial role in providing timely medical assistance and improving quality of life.  
 
-The model analyzes biomedical voice measurements to classify whether a patient has Parkinson's disease or not.  
+The model analyzes biomedical voice measurements to classify whether a patient has Parkinson's disease or not.
 
 ---
 
